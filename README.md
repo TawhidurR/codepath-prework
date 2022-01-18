@@ -28,8 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/ZhJZLnW.gif)
-
+![](https://i.imgur.com/IdMbCVy.gif)
 Gif created with ezgif.com/video-to-gif
 ## Notes
 
