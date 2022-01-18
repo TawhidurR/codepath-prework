@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![Tip Calculator Prework Recording](https://user-images.githubusercontent.com/97934411/149879544-6dc78387-d1c7-4a4d-92d2-e5b42d477862.gif)' title='Prework Gif' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![](https://i.imgur.com/ZhJZLnW.gif)
 
 ## Notes
 
