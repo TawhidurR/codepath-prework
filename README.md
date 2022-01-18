@@ -30,6 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/ZhJZLnW.gif)
 
+Gif created with ezgif.com/video-to-gif
 ## Notes
 
 Describe any challenges encountered while building the app.
