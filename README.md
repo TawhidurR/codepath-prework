@@ -34,6 +34,8 @@ Gif created with ezgif.com/video-to-gif
 
 Describe any challenges encountered while building the app.
 
+Challenges I encountered were minimal. I did take my time to minimize mistakes. However I did have an issue with running the simulation. I was able to solve the issue. It turned out I had a few error signs which were easily corrected.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
